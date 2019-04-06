@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lotusMonitoreo</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_imagen">ImagenBoton</string>
+    <string name="nada">... </string>
+    <string name="tv_estado">tv_Estado</string>
+
+    <string name="id">Id</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="color">Color</string>
+    <string name="codigo">Codigo</string>
+    <string name="estado">Estado</string>
+
+    <string name="registro">Registro</string>
+    <string name="descripciongeneral">Descripcion general</string>
+</resources>
